@@ -1,6 +1,6 @@
 # Створення робочого простору Gitpod
 
-Створіть або увійдіть у обліковий запис [Github](https://github.com/) та перейдіть на сторінку репозиторія: https://github.com/EugeneLoy/citus-test [TODO]
+Створіть або увійдіть у обліковий запис [Github](https://github.com/) та перейдіть на сторінку репозиторія: https://github.com/Anna150776/citus [TODO]
 
 Створіть "fork" репозиторія.
 
